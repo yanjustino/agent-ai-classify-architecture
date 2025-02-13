@@ -1,0 +1,8 @@
+"src/Application/Interfaces"
+"src/Application/Services"
+"src/Domain/Entities"
+"src/Domain/ValueObjects"
+"src/Infrastructure/Persistence"
+"src/Infrastructure/Services"
+"src/Presentation/Controllers"
+"src/Presentation/Models"
